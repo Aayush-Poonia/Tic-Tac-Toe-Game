@@ -25,11 +25,11 @@ Play against a friend and enjoy the classic Xs and Os game right in your browser
 
 ## 📂 Project Structure
 
-📁 tic-tac-toe\n
-┣ 📄 index.html # Main HTML file\n
-┣ 📄 style.css # Styling\n
-┣ 📄 app.js # Game logic\n
-┗ 📄 README.md # Project documentation\n
+📁 tic-tac-toe<br>
+┣ 📄 index.html # Main HTML file<br>
+┣ 📄 style.css # Styling<br>
+┣ 📄 app.js # Game logic<br>
+┗ 📄 README.md # Project documentation<br>
 
 
 ## ▶️ How to Play
