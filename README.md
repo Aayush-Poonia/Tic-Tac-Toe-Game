@@ -25,16 +25,16 @@ Play against a friend and enjoy the classic Xs and Os game right in your browser
 
 ## 📂 Project Structure
 
-📁 tic-tac-toe
-┣ 📄 index.html # Main HTML file
-┣ 📄 style.css # Styling
-┣ 📄 app.js # Game logic
-┗ 📄 README.md # Project documentation
+📁 tic-tac-toe\n
+┣ 📄 index.html # Main HTML file\n
+┣ 📄 style.css # Styling\n
+┣ 📄 app.js # Game logic\n
+┗ 📄 README.md # Project documentation\n
 
 
 ## ▶️ How to Play
 1. Open the [live demo](https://tic-tac-toe-game-lake-two.vercel.app/).
-2. Player **X** always starts first.
+2. Player **O** always starts first.
 3. Take turns placing your marks on the 3×3 grid.
 4. The first player to get **3 in a row (horizontally, vertically, or diagonally)** wins!
 5. Click **Restart** to play again.
