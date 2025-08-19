@@ -24,7 +24,6 @@ Play against a friend and enjoy the classic Xs and Os game right in your browser
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 📁 tic-tac-toe
 ┣ 📄 index.html # Main HTML file
